@@ -21,3 +21,6 @@ En la versión móvil el menú tiene un tamaño del 50% (con un 60 quedaba muy g
 
 ## Fondo y luna
 El fondo es imagen png que ocupa toda la pantalla. La luna está identificada como "luna" para luego en css ponerla fijada abajo del todo. En la versión de escritorio tiene una altura del 22% y en la versión móvil la dejo que ocupe un 80% de la página y fijada a la parte de abajo igual. Los márgenes en los dos casos se ajustan automáticamente a la página.
+
+## Proyecto con html y css minimificados
+En la rama: https://github.com/ALMR94/lunarlander-htmlcss/tree/ramadeproyectomminificado tenemos el mismo proyecto minimificado para que sea más ligero, ocupe menos y cargue más rápido.
